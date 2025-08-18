@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a developer who loves to try new things!
 ### Backend Development
 - 🌐 **Node.js** | **Express.js**
 - 🗄️ **MongoDB**, **MySQL**, **PostgreSQL**
-- 🛠️ **REST APIs** | **GraphQL**
+- 🛠️ **REST APIs**
 
 ### DevOps & Tools
 - 🚀 **Docker**
@@ -36,3 +36,4 @@ Welcome to my GitHub profile! I'm a developer who loves to try new things!
 ## 📈 My GitHub Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=giannicecchetto&show_icons=true&theme=chartreuse-dark&count_private=tr)
+
